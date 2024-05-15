@@ -1,4 +1,4 @@
-#this needs to be installed to run chatgpt via voice:
+# this needs to be installed to run chatgpt via voice:
 
 ```bash
 sudo apt update
